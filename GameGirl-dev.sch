@@ -64,6 +64,7 @@ F 0 "SW2" H 1350 2985 50  0000 C CNN
 F 1 "TS-1187" H 1350 2894 50  0000 C CNN
 F 2 "caca:TS1187ABAB" H 1350 2900 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 1350 2900 50  0001 C CNN
+F 4 "C318884" H 1350 2600 50  0001 C CNN "LCSC"
 	1    1350 2600
 	1    0    0    -1  
 $EndComp
@@ -75,6 +76,7 @@ F 0 "J1" H 1600 7247 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 1600 7156 50  0000 C CNN
 F 2 "caca:USB_C_Receptacle_XKB_U262-16XN-4BVC11" H 1850 6400 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1850 6400 50  0001 C CNN
+F 4 "C319148" H 1700 6400 50  0001 C CNN "LCSC"
 	1    1700 6400
 	1    0    0    -1  
 $EndComp
@@ -94,6 +96,7 @@ F 0 "SW1" H 1200 1735 50  0000 C CNN
 F 1 "TS-1187" H 1200 1644 50  0000 C CNN
 F 2 "caca:TS1187ABAB" H 1200 1650 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 1200 1650 50  0001 C CNN
+F 4 "C318884" H 1200 1350 50  0001 C CNN "LCSC"
 	1    1200 1350
 	1    0    0    -1  
 $EndComp
@@ -264,7 +267,7 @@ U 1 1 62079C58
 P 5250 1150
 F 0 "D1" H 5243 895 50  0000 C CNN
 F 1 "LED" H 5243 986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric" H 5250 1150 50  0001 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 5250 1150 50  0001 C CNN
 F 3 "~" H 5250 1150 50  0001 C CNN
 	1    5250 1150
 	-1   0    0    1   
@@ -656,6 +659,7 @@ F 0 "Y1" H 3550 1300 50  0000 L CNN
 F 1 "Crystal_GND24_Small" H 3450 1200 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 3400 1050 50  0001 C CNN
 F 3 "~" H 3400 1050 50  0001 C CNN
+F 4 "C9006" H 3400 1050 50  0001 C CNN "LCSC"
 	1    3400 1050
 	1    0    0    -1  
 $EndComp
@@ -1035,6 +1039,7 @@ F 0 "SW8" H 10150 3185 50  0000 C CNN
 F 1 "SKRRAAE" H 10150 3094 50  0000 C CNN
 F 2 "caca:SKRR" H 10150 3100 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 10150 3100 50  0001 C CNN
+F 4 "C97437" H 10150 2800 50  0001 C CNN "LCSC"
 	1    10150 2800
 	1    0    0    -1  
 $EndComp
@@ -1048,6 +1053,7 @@ F 0 "SW9" H 10150 4685 50  0000 C CNN
 F 1 "SKRRAAE" H 10150 4594 50  0000 C CNN
 F 2 "caca:SKRR" H 10150 4600 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 10150 4600 50  0001 C CNN
+F 4 "C97437" H 10150 4300 50  0001 C CNN "LCSC"
 	1    10150 4300
 	1    0    0    -1  
 $EndComp
@@ -1059,6 +1065,7 @@ F 0 "SW10" H 10150 6235 50  0000 C CNN
 F 1 "SKRRAAE" H 10150 6144 50  0000 C CNN
 F 2 "caca:SKRR" H 10150 6150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 10150 6150 50  0001 C CNN
+F 4 "C97437" H 10150 5850 50  0001 C CNN "LCSC"
 	1    10150 5850
 	1    0    0    -1  
 $EndComp
@@ -1155,6 +1162,7 @@ F 0 "SW5" H 8400 3085 50  0000 C CNN
 F 1 "SKRRAAE" H 8400 2994 50  0000 C CNN
 F 2 "caca:SKRR" H 8400 3000 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 8400 3000 50  0001 C CNN
+F 4 "C97437" H 8400 2700 50  0001 C CNN "LCSC"
 	1    8400 2700
 	1    0    0    -1  
 $EndComp
@@ -1170,6 +1178,7 @@ F 0 "SW3" H 4000 7235 50  0000 C CNN
 F 1 "TS-1187" H 4000 7144 50  0000 C CNN
 F 2 "caca:TS1187ABAB" H 4000 7150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 4000 7150 50  0001 C CNN
+F 4 "C318884" H 4000 6850 50  0001 C CNN "LCSC"
 	1    4000 6850
 	1    0    0    -1  
 $EndComp
@@ -1264,6 +1273,7 @@ F 0 "SW4" H 5750 7235 50  0000 C CNN
 F 1 "TS-1187" H 5750 7144 50  0000 C CNN
 F 2 "caca:TS1187ABAB" H 5750 7150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 5750 7150 50  0001 C CNN
+F 4 "C318884" H 5750 6850 50  0001 C CNN "LCSC"
 	1    5750 6850
 	1    0    0    -1  
 $EndComp
@@ -1461,6 +1471,7 @@ F 0 "SW6" H 8450 4685 50  0000 C CNN
 F 1 "SKRRAAE" H 8450 4594 50  0000 C CNN
 F 2 "caca:SKRR" H 8450 4600 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 8450 4600 50  0001 C CNN
+F 4 "C97437" H 8450 4300 50  0001 C CNN "LCSC"
 	1    8450 4300
 	1    0    0    -1  
 $EndComp
@@ -1555,6 +1566,7 @@ F 0 "SW7" H 8450 6235 50  0000 C CNN
 F 1 "SKRRAAE" H 8450 6144 50  0000 C CNN
 F 2 "caca:SKRR" H 8450 6150 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 8450 6150 50  0001 C CNN
+F 4 "C97437" H 8450 5850 50  0001 C CNN "LCSC"
 	1    8450 5850
 	1    0    0    -1  
 $EndComp
@@ -1810,7 +1822,7 @@ U 1 1 628DBFAF
 P 5250 1800
 F 0 "D2" H 5243 1545 50  0000 C CNN
 F 1 "LED" H 5243 1636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric" H 5250 1800 50  0001 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 5250 1800 50  0001 C CNN
 F 3 "~" H 5250 1800 50  0001 C CNN
 	1    5250 1800
 	-1   0    0    1   
@@ -1933,6 +1945,7 @@ F 0 "U1" H 1250 4800 50  0000 C CNN
 F 1 "SRV05" H 1250 4700 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6" H 1020 3870 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/D3V3XA4B10LP.pdf" H 1600 4300 50  0001 C CNN
+F 4 "C85364" H 1600 4300 50  0001 C CNN "LCSC"
 	1    1600 4300
 	1    0    0    -1  
 $EndComp
@@ -1978,8 +1991,8 @@ Text Label 3700 5600 0    50   ~ 0
 ~SCR_NRST
 Wire Wire Line
 	7200 5300 7250 5300
-Wire Bus Line
-	5600 4700 5600 5400
 Text Label 7250 5300 0    50   ~ 0
 ~SCR_NRST
+Wire Bus Line
+	5600 4700 5600 5400
 $EndSCHEMATC
