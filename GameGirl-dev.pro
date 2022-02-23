@@ -1,4 +1,4 @@
-update=2022/2/6 13:22:26
+update=2022/2/23 11:36:41
 version=1
 last_client=kicad
 [general]
@@ -22,21 +22,20 @@ AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.09
+MinTrackWidth=0.12
 MinViaDiameter=0.45
 MinViaDrill=0.2
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.5
 TrackWidth1=0.15
-TrackWidth2=0.09
-TrackWidth3=0.1
-TrackWidth4=0.2
-TrackWidth5=0.25
-TrackWidth6=0.4
-TrackWidth7=0.45
-TrackWidth8=0.6
-TrackWidth9=1
+TrackWidth2=0.12
+TrackWidth3=0.2
+TrackWidth4=0.25
+TrackWidth5=0.4
+TrackWidth6=0.45
+TrackWidth7=0.6
+TrackWidth8=1
 ViaDiameter1=0.45
 ViaDrill1=0.2
 ViaDiameter2=0.45
@@ -239,7 +238,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.09
+Clearance=0.12
 TrackWidth=0.15
 ViaDiameter=0.45
 ViaDrill=0.2
@@ -250,7 +249,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=USB_DATA
-Clearance=0.09
+Clearance=0.12
 TrackWidth=0.20574
 ViaDiameter=0.45
 ViaDrill=0.2
@@ -259,3 +258,13 @@ uViaDrill=0.1
 dPairWidth=0.20574
 dPairGap=0.127
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=./
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1

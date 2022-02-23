@@ -1,4 +1,3 @@
 (sym_lib_table
   (lib (name GameGirl)(type Legacy)(uri C:/Users/bai/Documents/KiCadProjects/GameGirl/GameGirl.lib)(options "")(descr ""))
-  (lib (name GameGirl-dev-rescue)(type Legacy)(uri ${KIPRJMOD}/GameGirl-dev-rescue.lib)(options "")(descr ""))
 )
